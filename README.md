@@ -14,7 +14,7 @@
 
 ## ⬇️ ডাউনলোড করুন
 
-[![ডাউনলোড APK](https://img.shields.io/badge/ডাউনলোড-Apk-blue?style=for-the-badge)](https://github.com/thestartinglightofearth/Ahle-Haq-Media/blob/main/আহলে%20হক%20মিডিয়া.apk)
+[![ডাউনলোড APK](https://img.shields.io/badge/ডাউনলোড-Apk-blue?style=for-the-badge)](https://github.com/thestartinglightofearth/Ahle-Haq-Media/blob/main/signed.apk)
 
 > উপরের বাটনে ক্লিক করে সরাসরি APK ডাউনলোড করুন।  
 
